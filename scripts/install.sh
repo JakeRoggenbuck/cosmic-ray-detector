@@ -1,1 +1,1 @@
-cp cmake/diri-c ~/.local/bin/
+cp cmake/cosmic-ray-detector ~/.local/bin/
